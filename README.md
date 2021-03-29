@@ -17,10 +17,11 @@
     
   ## Description:
   This app will help keep track of all your fitness workouts(type, name of workout, duration, weight, reps and sets).
-  ![screenshot](https://github.com/adumbcoder/Fitness_Tracker/blob/main/screenshots/homepage.jpg?raw=true =250x250)
-  <img src="https://github.com/adumbcoder/Fitness_Tracker/blob/main/screenshots/homepage.jpg?raw=true" alt="alt text" width="250" height="250">
-  ![screenshot](https://github.com/adumbcoder/Fitness_Tracker/blob/main/screenshots/dashboard.jpg =250x250)
-  ![screenshot](https://github.com/adumbcoder/Fitness_Tracker/blob/main/screenshots/addNew.jpg =250x250)
+  
+  <img src="https://github.com/adumbcoder/Fitness_Tracker/blob/main/screenshots/homepage.jpg?raw=true" alt="alt text" width="1000" height="1000">
+  <img src="https://github.com/adumbcoder/Fitness_Tracker/blob/main/screenshots/dashboard.jpg" alt="alt text" width="1000" height="1000">
+  <img src="https://github.com/adumbcoder/Fitness_Tracker/blob/main/screenshots/addNew.jpg" alt="alt text" width="1000" height="1000">
+  
 
   ### Installation:
   Install the repo here, https://github.com/adumbcoder/Fitness_Tracker. 
